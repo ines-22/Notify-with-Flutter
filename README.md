@@ -18,7 +18,7 @@ Notify App is a mobile application built with Flutter integrating Firebase that 
   - View categories and subscribe to them.
   - Receive notifications for new messages in subscribed categories.
 ## Video DEMO
-![Notify Demo.mp4](/Notify Demo.mp4)
+![Notify Demo](/Notify Demo.mp4)
 
 ## Getting Started
 
